@@ -1,4 +1,4 @@
-# spotify-genre-classification
+# spotify-genre-classification by JARS
 
 ## Dataset
 The dataset we used for this project was a Spotify dataset containing features such as track_id, artists, album_name, track_name, popularity, duration_ms, explicit, danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, valence, tempo, time_signature, and the target variable track_genre. This dataset presented a unique challenge with its 114 unique genres, requiring us to balance robust classification with computational efficiency. 
